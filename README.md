@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mk1tools MarkOne
 - 👀 I’m interested in IBM Power and IBM i operating system and application development with RPG, SQL
-- 🌱 I’m currently learning open source world on IBM i
+- 🌱 I’m currently learning open source world on IBM i especially JavaScript and Node.js
 - 💞️ I’m looking to collaborate on spreading knowledge about IBM i
 - 📫 How to reach me: www.markonetools.it
 
